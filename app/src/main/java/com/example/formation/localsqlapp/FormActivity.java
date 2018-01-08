@@ -16,7 +16,7 @@ public class FormActivity extends AppCompatActivity {
         setContentView(R.layout.activity_form);
 
     }
-    public void onValid(view v){
+    public void onValid(View v){
         Button clickedButton = (Button) v;
 
     }
